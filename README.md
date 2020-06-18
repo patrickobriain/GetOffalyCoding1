@@ -1,2 +1,2 @@
-# GetOffalyCoding1
-GitHub Pages
+# Get Offaly Coding Site
+Powered by Github pages. 
